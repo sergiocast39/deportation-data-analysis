@@ -1,4 +1,4 @@
-# 🚨 Deportation Data Analysis (2008–2025)
+# Deportation Data Analysis (2008–2025)
 
 This project analyzes publicly available deportation data from [deportationdata.org](https://deportationdata.org/data/ice.html#sec-about).  
 It explores patterns in U.S. Immigration and Customs Enforcement (ICE) removals by **age**, **gender**, **state of departure**, **country of birth**, and **presidential term**.
