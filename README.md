@@ -25,11 +25,11 @@ The analysis was built in Python using a single Jupyter notebook, supported by h
 ## 📁 Project Structure
 
 deportation-data-analysis/
-├── deportation_csvs/ # CSV files (not included in repo)
-├── Deportation_Data_Analysis.ipynb # 💡 Main notebook
-├── requirements.txt # Python dependencies
-├── README.md # Project overview
-└── .gitignore
+deportation_csvs/ # CSV files (not included in repo)
+Deportation_Data_Analysis.ipynb # 💡 Main notebook
+requirements.txt # Python dependencies
+README.md # Project overview
+.gitignore
 
 ## Tools & Libraries
 Python 3.x
